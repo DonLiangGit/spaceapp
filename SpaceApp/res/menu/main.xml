@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jsonparsing.spaceapp.MainActivity" >
+	
+    <item
+        android:id="@+id/title_sort"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_sort"/>
+    <item
+        android:id="@+id/date_sort_asc"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/date_sort_asc"/>
+    <item
+        android:id="@+id/date_sort_desc"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/date_sort_desc"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>

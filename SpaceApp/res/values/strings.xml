@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpaceApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_sort">Sort Title</string>
+    <string name="date_sort_asc">Date(Ascending)</string>
+    <string name="date_sort_desc">Date(Descending)</string>
+
+</resources>
